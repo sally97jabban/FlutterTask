@@ -1,0 +1,27 @@
+{
+  "tags": [
+    "sql",
+    "node.js",
+    "express"
+  ],
+  "owner": {
+    "account_id": 23936968,
+    "reputation": 31,
+    "user_id": 17930591,
+    "user_type": "registered",
+    "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwEyFWQkcBp--pjHEUcrNosx5B2V-oi9rJOHRnX=k-s256",
+    "display_name": "Muhammad Osama",
+    "link": "https://stackoverflow.com/users/17930591/muhammad-osama"
+  },
+  "is_answered": false,
+  "view_count": 5,
+  "answer_count": 0,
+  "score": 0,
+  "last_activity_date": 1669358923,
+  "creation_date": 1669356207,
+  "last_edit_date": 1669358923,
+  "question_id": 74568852,
+  "content_license": "CC BY-SA 4.0",
+  "link": "https://stackoverflow.com/questions/74568852/getting-error-typeerror-pool-query-is-not-a-function-with-sql-server-nodejs",
+  "title": "Getting error &quot;TypeError: pool.query is not a function&quot; with SQL Server nodejs"
+}
